@@ -1,0 +1,6 @@
+{
+  "name": "public-data/currencies",
+  "description": "List of currencies",
+  "keywords": ["public-data", "data", "currencies"],
+  "type": "package"
+}

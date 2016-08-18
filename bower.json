@@ -1,0 +1,21 @@
+{
+  "name": "currencylist",
+  "description": "List of currencies",
+  "main": "",
+  "authors": [
+    "Mark Topper <mark@ulties.com>"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "public-data",
+    "currencies"
+  ],
+  "homepage": "https://github.com/public-data/currencies",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

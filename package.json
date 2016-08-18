@@ -1,0 +1,19 @@
+{
+  "name": "currencylist",
+  "version": "1.0.0",
+  "description": "List of currencies",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/public-data/currencies.git"
+  },
+  "keywords": [
+    "public-data",
+    "currencies"
+  ],
+  "author": "Mark Topper <mark@ulties.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/public-data/currencies/issues"
+  },
+  "homepage": "https://github.com/public-data/currencies#readme"
+}
